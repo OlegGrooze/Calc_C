@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>images/text5574.png</file>
+        <file>images/icon.png</file>
+        <file>images/icon.ico</file>
+		<file>images/256.icns</file>
+    </qresource>
+</RCC>
